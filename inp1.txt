@@ -1,0 +1,7 @@
+6 8
+2 0
+3 3
+./player 3 2 0
+2
+./monster s 3 5 5 5 1 2
+./monster J 1 1 10 6 4 2
